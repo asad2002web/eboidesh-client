@@ -90,7 +90,7 @@
       { "user": "User2", "comment": "Must-have for enthusiasts." }
     ],
     "publisher": "Prophetic Publications",
-    "image": ["front.jpg", "back.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 2
   },
   {
@@ -105,7 +105,7 @@
       { "user": "User2", "comment": "Well-researched." }
     ],
     "publisher": "Islamic Historical Press",
-    "image": ["cover.jpg", "inside1.jpg", "inside2.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 3
   },
   {
@@ -117,7 +117,7 @@
     "summary": "Legal rulings regarding the concept of veiling in Islam.",
     "reviews": [],
     "publisher": "Legal Perspectives Publishing",
-    "image": ["cover.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 1
   },
   {
@@ -132,7 +132,7 @@
       { "user": "User2", "comment": "In-depth analysis." }
     ],
     "publisher": "Logical Discourse Publications",
-    "image": ["cover.jpg", "sample.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 2
   },
   {
@@ -144,7 +144,7 @@
     "summary": "An exploration of the reasons behind the 20 Rakat Tarawih prayer.",
     "reviews": [],
     "publisher": "Prayer Insights",
-    "image": ["cover.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 1
   },
   {
@@ -159,7 +159,7 @@
       { "user": "User2", "comment": "Applicable to modern life." }
     ],
     "publisher": "Family Guidance Publications",
-    "image": ["cover.jpg", "inside.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 2
   },
   {
@@ -174,7 +174,7 @@
       { "user": "User2", "comment": "Clear instructions." }
     ],
     "publisher": "Pilgrimage Press",
-    "image": ["cover.jpg", "map.jpg", "guide.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 3
   },
   {
@@ -189,7 +189,7 @@
       { "user": "User2", "comment": "Informative illustrations." }
     ],
     "publisher": "Sacrificial Insights",
-    "image": ["cover.jpg", "rituals.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 2
   },
   {
@@ -201,7 +201,7 @@
     "summary": "Legal rulings on the act of sacrifice in Islam.",
     "reviews": [],
     "publisher": "Legal Sacrifice Publications",
-    "image": ["cover.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 1
   },
   {
@@ -216,7 +216,7 @@
       { "user": "User2", "comment": "Practical guidance." }
     ],
     "publisher": "Funeral Directives",
-    "image": ["cover.jpg", "rituals.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 2
   },
   {
@@ -231,7 +231,7 @@
       { "user": "User2", "comment": "Balanced approach." }
     ],
     "publisher": "Islamic Entertainment House",
-    "image": ["cover.jpg", "sports.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 2
   },
   {
@@ -243,7 +243,7 @@
     "summary": "Islamic guidelines on digital images and electronic media.",
     "reviews": [],
     "publisher": "Digital Ethics Publications",
-    "image": ["cover.jpg", "ethics.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 2
   },
   {
@@ -258,7 +258,7 @@
       { "user": "User2", "comment": "Respectful approach." }
     ],
     "publisher": "Mosque Manners Publications",
-    "image": ["cover.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 1
   },
   {
@@ -273,7 +273,7 @@
       { "user": "User2", "comment": "Clear arguments." }
     ],
     "publisher": "Logical Legal Publications",
-    "image": ["cover.jpg", "logic.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 2
   },
   {
@@ -285,7 +285,7 @@
     "summary": "An exploration of the quantum method in Islamic philosophy.",
     "reviews": [],
     "publisher": "Quantum Insights",
-    "image": ["cover.jpg", "quantum.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 2
   },
   {
@@ -300,7 +300,7 @@
       { "user": "User2", "comment": "Covers various perspectives." }
     ],
     "publisher": "Theological Discourse",
-    "image": ["cover.jpg", "debate.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 2
   },
   {
@@ -312,7 +312,7 @@
     "summary": "Guidelines and discussions on the practice of Itikaf in Islam.",
     "reviews": [],
     "publisher": "Spiritual Retreat Publications",
-    "image": ["cover.jpg", "spiritual.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 2
   },
   {
@@ -327,7 +327,7 @@
       { "user": "User2", "comment": "Well-researched." }
     ],
     "publisher": "Historical Legal Publications",
-    "image": ["cover.jpg", "history.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 2
   },
   {
@@ -342,7 +342,7 @@
       { "user": "User2", "comment": "Clear explanations." }
     ],
     "publisher": "Hanafi Legal Press",
-    "image": ["cover.jpg", "hanafi.jpg"],
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
     "quantity": 2
   }
 ]

@@ -2,11 +2,14 @@ import { useContext, useEffect, useState } from "react";
 import Loading from "../../Shared/Loading";
 import BookCard from "../../components/Shared/BookCard";
 import { BooksContext } from "../../context/AllBooksContext";
+import useAllBooks from "../../hooks/useAllbooks";
 
 const AllBooks = () => {
 
 
-  const { books } = useContext(BooksContext);
+    //   const { books } = useContext(BooksContext);
+    // using hook
+    const { books } = useAllBooks();
 
 
     // const [books, setBooks] = useState([]);
@@ -21,7 +24,7 @@ const AllBooks = () => {
     //     }
     // }, []);
 
-    console.log(books);
+    // console.log(books);
     if (books.length === 0) {
         return <Loading />;
     }

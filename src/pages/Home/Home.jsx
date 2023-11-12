@@ -3,10 +3,14 @@ import Loading from '../../Shared/Loading'
 import Hero from './Hero'
 import TopBooks from './TopBooks'
 import { BooksContext } from '../../context/AllBooksContext'
+import useAllBooks from '../../hooks/useAllbooks'
 
 const Home = () => {
 
-  const { books } = useContext(BooksContext);
+  // const { books } = useContext(BooksContext);
+
+  const {books} = useAllBooks();
+
 
   // ======== Now use Context API =========
   // const [books, setBooks] = useState([])
