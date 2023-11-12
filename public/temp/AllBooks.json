@@ -1,0 +1,348 @@
+[
+  {
+    "id": 1,
+    "name": "Al-Hidayah",
+    "price": 25.99,
+    "page": 350,
+    "author": "Unknown",
+    "summary": "A comprehensive guide to Islamic jurisprudence.",
+    "reviews": [
+      { "user": "User1", "comment": "Great book!" },
+      { "user": "User2", "comment": "Very informative." }
+    ],
+    "publisher": "Islamic Publications",
+    "image": [
+      "https://i.ibb.co/hZwCRX6/images.jpg",
+      "image2.jpg",
+      "image3.jpg"
+    ],
+    "quantity": 3
+  },
+  {
+    "id": 2,
+    "name": "Beheshti Jeor",
+    "price": 20.5,
+    "page": 280,
+    "author": "Unknown",
+    "summary": "A novel exploring the complexities of human nature.",
+    "reviews": [
+      { "user": "User1", "comment": "Captivating plot." },
+      { "user": "User2", "comment": "Well-written characters." }
+    ],
+    "publisher": "Fiction House",
+    "image": ["https://i.ibb.co/6sJD5gW/behest.jpg", "back.jpg"],
+    "quantity": 2
+  },
+  {
+    "id": 3,
+    "name": "Dainandin Jibone Islam",
+    "price": 18.75,
+    "page": 320,
+    "author": "Unknown",
+    "summary": "Insights into living an Islamic lifestyle in daily life.",
+    "reviews": [
+      { "user": "User1", "comment": "Great book!" },
+      { "user": "User2", "comment": "Very informative." }
+    ],
+    "publisher": "Islamic Book House",
+    "image": ["https://i.ibb.co/gWxdL79/daily-Islam.png"],
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "name": "Ahkame Zindagi",
+    "price": 22.99,
+    "page": 400,
+    "author": "Unknown",
+    "summary": "Understanding the rules and principles of life in Islam.",
+    "reviews": [
+      { "user": "User1", "comment": "Highly recommended." },
+      { "user": "User2", "comment": "Clear and concise." }
+    ],
+    "publisher": "Islamic Publishing Co.",
+    "image": ["https://i.ibb.co/VNBn017/ahkame.jpg", "sample.jpg"],
+    "quantity": 2
+  },
+  {
+    "id": 5,
+    "name": "Dolilsaho Namazer Masayel",
+    "price": 15.25,
+    "page": 250,
+    "author": "Unknown",
+    "summary": "Guidance and rules related to prayer in Islam.",
+    "reviews": [
+      { "user": "User1", "comment": "Informative." },
+      { "user": "User2", "comment": "Useful for beginners." }
+    ],
+    "publisher": "Islamic Guidance Publications",
+    "image": ["https://i.ibb.co/BC7Z2Rw/dolil.jpg"],
+    "quantity": 1
+  },
+  {
+    "id": 6,
+    "name": "Nabijir Namaz",
+    "price": 30.0,
+    "page": 450,
+    "author": "Unknown",
+    "summary": "A detailed guide on the prayers of Prophet Muhammad (SA).",
+    "reviews": [
+      { "user": "User1", "comment": "Excellent source." },
+      { "user": "User2", "comment": "Must-have for enthusiasts." }
+    ],
+    "publisher": "Prophetic Publications",
+    "image": ["front.jpg", "back.jpg"],
+    "quantity": 2
+  },
+  {
+    "id": 7,
+    "name": "Rasulullah (SA) er Bicharaloy",
+    "price": 28.5,
+    "page": 380,
+    "author": "Unknown",
+    "summary": "Insights into the judgments of Prophet Muhammad (SA).",
+    "reviews": [
+      { "user": "User1", "comment": "Historically significant." },
+      { "user": "User2", "comment": "Well-researched." }
+    ],
+    "publisher": "Islamic Historical Press",
+    "image": ["cover.jpg", "inside1.jpg", "inside2.jpg"],
+    "quantity": 3
+  },
+  {
+    "id": 8,
+    "name": "Shariyate Drishtite Pardar Hukum - Thanvi R.",
+    "price": 23.75,
+    "page": 300,
+    "author": "Unknown",
+    "summary": "Legal rulings regarding the concept of veiling in Islam.",
+    "reviews": [],
+    "publisher": "Legal Perspectives Publishing",
+    "image": ["cover.jpg"],
+    "quantity": 1
+  },
+  {
+    "id": 9,
+    "name": "Yuktiro Aloke Bitorkito Masayel",
+    "price": 19.99,
+    "page": 310,
+    "author": "Unknown",
+    "summary": "Debated issues in the light of logic and reason in Islam.",
+    "reviews": [
+      { "user": "User1", "comment": "Thought-provoking." },
+      { "user": "User2", "comment": "In-depth analysis." }
+    ],
+    "publisher": "Logical Discourse Publications",
+    "image": ["cover.jpg", "sample.jpg"],
+    "quantity": 2
+  },
+  {
+    "id": 10,
+    "name": "Tarawir Namaz 20 Rakat Keno",
+    "price": 17.5,
+    "page": 270,
+    "author": "Unknown",
+    "summary": "An exploration of the reasons behind the 20 Rakat Tarawih prayer.",
+    "reviews": [],
+    "publisher": "Prayer Insights",
+    "image": ["cover.jpg"],
+    "quantity": 1
+  },
+  {
+    "id": 11,
+    "name": "Jonmo Niontron",
+    "price": 16.0,
+    "page": 260,
+    "author": "Unknown",
+    "summary": "A guide to family planning and birth control in Islam.",
+    "reviews": [
+      { "user": "User1", "comment": "Practical advice." },
+      { "user": "User2", "comment": "Applicable to modern life." }
+    ],
+    "publisher": "Family Guidance Publications",
+    "image": ["cover.jpg", "inside.jpg"],
+    "quantity": 2
+  },
+  {
+    "id": 12,
+    "name": "Ahkame Hajj o Umrah",
+    "price": 35.5,
+    "page": 500,
+    "author": "Unknown",
+    "summary": "Detailed rulings on the rituals of Hajj and Umrah.",
+    "reviews": [
+      { "user": "User1", "comment": "Essential for pilgrims." },
+      { "user": "User2", "comment": "Clear instructions." }
+    ],
+    "publisher": "Pilgrimage Press",
+    "image": ["cover.jpg", "map.jpg", "guide.jpg"],
+    "quantity": 3
+  },
+  {
+    "id": 13,
+    "name": "Qurbani o Akika",
+    "price": 24.99,
+    "page": 320,
+    "author": "Unknown",
+    "summary": "Guidance on the sacrifice and naming ceremony in Islam.",
+    "reviews": [
+      { "user": "User1", "comment": "Covers all aspects." },
+      { "user": "User2", "comment": "Informative illustrations." }
+    ],
+    "publisher": "Sacrificial Insights",
+    "image": ["cover.jpg", "rituals.jpg"],
+    "quantity": 2
+  },
+  {
+    "id": 14,
+    "name": "Ahkame Qurbani",
+    "price": 18.25,
+    "page": 280,
+    "author": "Unknown",
+    "summary": "Legal rulings on the act of sacrifice in Islam.",
+    "reviews": [],
+    "publisher": "Legal Sacrifice Publications",
+    "image": ["cover.jpg"],
+    "quantity": 1
+  },
+  {
+    "id": 15,
+    "name": "Kafon - Dafon - Janaza",
+    "price": 21.0,
+    "page": 350,
+    "author": "Unknown",
+    "summary": "Procedures related to funeral rites in Islam.",
+    "reviews": [
+      { "user": "User1", "comment": "Important reference." },
+      { "user": "User2", "comment": "Practical guidance." }
+    ],
+    "publisher": "Funeral Directives",
+    "image": ["cover.jpg", "rituals.jpg"],
+    "quantity": 2
+  },
+  {
+    "id": 16,
+    "name": "Khela-Dhula o Binodon er Islami Bidhan",
+    "price": 20.5,
+    "page": 330,
+    "author": "Unknown",
+    "summary": "Islamic perspectives on sports, entertainment, and games.",
+    "reviews": [
+      { "user": "User1", "comment": "Thoughtful insights." },
+      { "user": "User2", "comment": "Balanced approach." }
+    ],
+    "publisher": "Islamic Entertainment House",
+    "image": ["cover.jpg", "sports.jpg"],
+    "quantity": 2
+  },
+  {
+    "id": 17,
+    "name": "Digital Chhobi o Electric Media Somporke Islamer Bidhan",
+    "price": 27.99,
+    "page": 400,
+    "author": "Unknown",
+    "summary": "Islamic guidelines on digital images and electronic media.",
+    "reviews": [],
+    "publisher": "Digital Ethics Publications",
+    "image": ["cover.jpg", "ethics.jpg"],
+    "quantity": 2
+  },
+  {
+    "id": 18,
+    "name": "Moshjide Chairke Na Boli",
+    "price": 15.99,
+    "page": 260,
+    "author": "Unknown",
+    "summary": "Guidance on etiquette and behavior in the mosque.",
+    "reviews": [
+      { "user": "User1", "comment": "Practical advice." },
+      { "user": "User2", "comment": "Respectful approach." }
+    ],
+    "publisher": "Mosque Manners Publications",
+    "image": ["cover.jpg"],
+    "quantity": 1
+  },
+  {
+    "id": 19,
+    "name": "Yuktiro Aloke Sharii Ahkam",
+    "price": 23.0,
+    "page": 320,
+    "author": "Unknown",
+    "summary": "Legal rulings examined in the light of logic.",
+    "reviews": [
+      { "user": "User1", "comment": "Logical perspective." },
+      { "user": "User2", "comment": "Clear arguments." }
+    ],
+    "publisher": "Logical Legal Publications",
+    "image": ["cover.jpg", "logic.jpg"],
+    "quantity": 2
+  },
+  {
+    "id": 20,
+    "name": "Quantum Method: Ekoti Porjalochona",
+    "price": 32.0,
+    "page": 450,
+    "author": "Unknown",
+    "summary": "An exploration of the quantum method in Islamic philosophy.",
+    "reviews": [],
+    "publisher": "Quantum Insights",
+    "image": ["cover.jpg", "quantum.jpg"],
+    "quantity": 2
+  },
+  {
+    "id": 21,
+    "name": "Masayele Shirik o Bidat",
+    "price": 19.75,
+    "page": 310,
+    "author": "Unknown",
+    "summary": "Discussion on issues related to polytheism and innovation in Islam.",
+    "reviews": [
+      { "user": "User1", "comment": "In-depth analysis." },
+      { "user": "User2", "comment": "Covers various perspectives." }
+    ],
+    "publisher": "Theological Discourse",
+    "image": ["cover.jpg", "debate.jpg"],
+    "quantity": 2
+  },
+  {
+    "id": 22,
+    "name": "Masayele Itikaf",
+    "price": 22.5,
+    "page": 340,
+    "author": "Unknown",
+    "summary": "Guidelines and discussions on the practice of Itikaf in Islam.",
+    "reviews": [],
+    "publisher": "Spiritual Retreat Publications",
+    "image": ["cover.jpg", "spiritual.jpg"],
+    "quantity": 2
+  },
+  {
+    "id": 23,
+    "name": "Hazrat Abdullah ibn-e-Masud (RA) o Tar Fiqah",
+    "price": 28.75,
+    "page": 380,
+    "author": "Unknown",
+    "summary": "Exploring the legal perspectives of Hazrat Abdullah ibn-e-Masud (RA).",
+    "reviews": [
+      { "user": "User1", "comment": "Historically significant." },
+      { "user": "User2", "comment": "Well-researched." }
+    ],
+    "publisher": "Historical Legal Publications",
+    "image": ["cover.jpg", "history.jpg"],
+    "quantity": 2
+  },
+  {
+    "id": 24,
+    "name": "Adillatul Hanafiyyah",
+    "price": 26.5,
+    "page": 360,
+    "author": "Unknown",
+    "summary": "Legal rulings from the Hanafi school of thought.",
+    "reviews": [
+      { "user": "User1", "comment": "Hanafi jurisprudence." },
+      { "user": "User2", "comment": "Clear explanations." }
+    ],
+    "publisher": "Hanafi Legal Press",
+    "image": ["cover.jpg", "hanafi.jpg"],
+    "quantity": 2
+  }
+]

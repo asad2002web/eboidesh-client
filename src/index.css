@@ -1,3 +1,54 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* font import from google */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  color: var(--dark-color);
+  font-family: "Montserrat", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* :root variable */
+
+:root {
+  --primary-color: #8e8bf5;
+  /* --secondary-color: #794afa; */
+  /* --secondary-dark-color: #4536b5; */
+  --white-color: #fff;
+  --light-bg-color: #f2f3f8;
+  --light-text-color: #7c899a;
+  --border-color: #e5e8ec;
+  --dark-color: #0a021c;
+}
+
+/* using tailwind css */
+
+.Container {
+  @apply container mx-auto px-4;
+}
+.active {
+  @apply font-semibold tracking-wide text-cyan-600 transition-colors duration-200;
+}
+
+.default {
+  @apply font-semibold tracking-wide text-black transition-colors duration-200 hover:text-cyan-600;
+}
+
+
+.login-form {
+  @apply w-full block p-2 border-2 border-black rounded-lg mb-3;
+}
+.login-label{
+  @apply text-[#232323] font-semibold my-2 block;
+}
+.login-btn{
+  @apply text-lg font-semibold px-4 py-2 bg-[#8e8bf5] text-white hover:bg-[#fff] hover:text-black border-2 border-[#8e8bf5] transition-all duration-200 active:scale-[0.9];
+}
