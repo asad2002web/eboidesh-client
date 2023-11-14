@@ -5,6 +5,7 @@ import Register from "../pages/Register/Register";
 import Home from "../pages/Home/Home";
 import NotFoundPage from "../Shared/NotFoundPage";
 import AllBooks from "../pages/Allbook/AllBooks";
+import SingleBook from "../components/SingleBook";
 
 
 
@@ -40,7 +41,7 @@ export const router = createBrowserRouter([
             },
             {
                 path: "/books/:id",
-                element: <h1>Book Details</h1>,
+                element: <SingleBook />,
             }
         ],
     }

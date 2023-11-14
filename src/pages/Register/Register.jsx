@@ -1,10 +1,15 @@
 import React from 'react'
 import ButtonPrimary from './../../components/Shared/ButtonPrimary';
+import { useForm } from "react-hook-form";
 
 const Register = () => {
+
+
+  const { register, handleSubmit, watch, formState: { errors } } = useForm()
+
   return (
     <div className='Container mt-10'>
-     
+
       <h2 className='text-2xl md:text-3xl font-bold px-0 py-2.5'>New Customer Register</h2>
       <form>
         <div className='grid grid-cols-1 md:grid-cols-2 gap-2 md:gap-4'>
@@ -27,7 +32,7 @@ const Register = () => {
             <input className="login-form" type="password" placeholder="Enter Your Password" />
           </div>
         </div>
-        <ButtonPrimary>
+        <ButtonPrimary handler={() => { }}>
           Register
         </ButtonPrimary>
       </form>

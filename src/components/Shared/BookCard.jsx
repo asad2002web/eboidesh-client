@@ -1,4 +1,4 @@
-import ButtonPrimary from "./ButtonPrimary";
+// import ButtonPrimary from "./ButtonPrimary";
 import Review from './../Review';
 import { Button, Card } from "keep-react";
 import { Link } from "react-router-dom";
@@ -26,9 +26,9 @@ const BookCard = ({ book }) => {
         //         </div>
         //     </div>
         // </div>
-        <Card className="md:py-3 md:px-6  p-2 max-w-[280px] mx-auto">
+        <Card className="md:py-3 md:px-6  p-2 max-w-[280px] mx-auto group">
         <Card.Container className="flex items-center justify-center overflow-hidden">
-         <img className="w-full h-[300px] transform hover:scale-110 transition-transform duration-3000 ease-in" src={image[0]} alt="" />
+         <img className="w-full h-[300px] transform group-hover:scale-110 transition-transform duration-3000 ease-in" src={image[0]} alt="" />
         </Card.Container>
         <Card.Container className="text-center">
           <Card.Title>{name}</Card.Title>

@@ -3,6 +3,7 @@ import Loading from "../../Shared/Loading";
 import BookCard from "../../components/Shared/BookCard";
 import { BooksContext } from "../../context/AllBooksContext";
 import useAllBooks from "../../hooks/useAllbooks";
+import SectionTitle from "../../components/Shared/SectionTitle";
 
 const AllBooks = () => {
 
@@ -31,7 +32,7 @@ const AllBooks = () => {
 
     return (
         <div className="Container">
-            <h1>All Books</h1>
+            <SectionTitle heading={"All Books Items"} subHeading={"All Books Categories"} />
             <ul className='grid gap-6 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
                 {
                     books.map((book) => <BookCard key={book.id} book={book} />)
